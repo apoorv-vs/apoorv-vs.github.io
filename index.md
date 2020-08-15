@@ -1,7 +1,9 @@
 ## Welcome to GitHub Pages
 
-![](https://savs95.github.io/images/profile.png)
+![](https://savs95.github.io/images/profile.png){: .align-left}
 Something about the first picture.
+{:style="clear: left"}
+
 
 You can use the [editor on GitHub](https://github.com/apoorv-vs/apoorv-vs.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
