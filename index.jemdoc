@@ -1,19 +1,18 @@
-# jemdoc:
+# jemdoc: menu{MENU}{index.html}
 = Apoorv Vikram Singh
 
 ~~~
 {}{img_left}{images/profile.jpeg}{Picture}{250}{350}{}
 *Apoorv Vikram Singh* \n
-/Ph.D Candidate/ \n
+/Ph.D. Candidate/ \n
 [https://engineering.nyu.edu/academics/departments/computer-science-and-engineering Computer Science] \n
 [https://engineering.nyu.edu/ NYU Tandon] \n
 \n \n
-I am a first year PhD student at the department of Computer Science at the NYU Tandon School of Engineering, where I am supported by the School of Engineering Fellowship. I am advised by [Dr Chris Musco]. I am a part of the [https://wp.nyu.edu/tandonschoolofengineering-algorithms/ Algorithms and Foundations Group]. \n
+I am a first year PhD student at the department of Computer Science at the NYU Tandon School of Engineering, where I am supported by the School of Engineering Fellowship. I am advised by [https://www.chrismusco.com/ Dr Chris Musco]. I am a part of the [https://wp.nyu.edu/tandonschoolofengineering-algorithms/ Algorithms and Foundations Group]. \n
 Before joining NYU, I was a visiting researcher for four months at [https://www.inria.fr/fr/centre-inria-lille-nord-europe INRIA Lille] where I worked with [https://hemant-tyagi.github.io/ Dr Hemant Tyagi] and [http://www.stats.ox.ac.uk/~cucuring/ Dr Mihai Cucuringu] (Univ of Oxford). Before that I was a Project Associate for a year in the [https://www.csa.iisc.ac.in/ Dept of Computer Science and Automation], [https://iisc.ac.in/ Indian Institute of Science], where I worked with [https://www.csa.iisc.ac.in/~anandl/ Dr Anand Louis] and [https://www.microsoft.com/en-us/research/people/amitdesh/ Dr Amit Deshpande] (Microsoft Research, India). I obtained my undergraduate degree from [https://www.iiitb.ac.in/ IIIT Bangalore].
 \n \n
 *Research Interests*: My research interests lie at the intersection of computer science and statistical machine learning. Currently, I am working on problems in the area of robust statistics, and sub-linear algorithms for spectrum estimation. \n \n
 *Email*: apoorv \[dot\] singh \[at\] nyu \[dot\] edu \n \n
-You can find a link to my resume [docs/cv.pdf here].
 ~~~
 
 == Publications
@@ -21,3 +20,6 @@ You can find a link to my resume [docs/cv.pdf here].
 - *On Euclidean k-Means Clustering with α-Center Proximity
 * \n Amit Deshpande, Anand Louis, Apoorv Vikram Singh \n /AISTATS 2019/ \[[https://arxiv.org/abs/1804.10827 ArXiv]\]
 - *Approximation Algorithms for Cost-Balanced Clustering* \n Amit Deshpande, Anand Louis, Deval Patel, Apoorv Vikram Singh\n /Preprint/ \[[https://www.dropbox.com/s/r5uwemki3zfvvyb/min_max_km.pdf?dl=0 Link]\]
+
+
+<a class="twitter-timeline" data-width="600" data-height="700" data-theme="light" href="https://twitter.com/apoorvvikram95?ref_src=twsrc%5Etfw">Tweets by apoorvvikram95</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
