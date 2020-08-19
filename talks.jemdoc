@@ -1,7 +1,12 @@
 # jemdoc: menu{MENU}{talks.html}
 = Talks
 
-\( \begin{equation} \sigma = \sqrt{\frac{1}{N} \sum_{i=1}^N (x_i - \mu)^2} \end{equation} \)
-
-- *On Euclidean $k$-Means with $\alpha$-Center Proximity* \n
-INRIA Lille
+. *On Euclidean $k$-Means with $\alpha$-Center Proximity* \n
+ .. INRIA Lille: /October 15, 2019/
+ .. ICTS-TIFR: /August 10, 2019/
+ .. AISTATS 2019: /April 17, 2019/
+ .. IIIT Bangalore: /December 1, 2018/
+. *Igniting the AI Fire in You (carefully)*
+  .. IISc Bangalore: /July 25, 2019/
+. *Gradient Descent Converges to Minimizers*
+  .. Microsoft Research Bangalore: /September 21, 2017/
