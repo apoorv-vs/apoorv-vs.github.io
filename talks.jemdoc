@@ -2,11 +2,11 @@
 = Talks
 
 . *On Euclidean $k$-Means with $\alpha$-Center Proximity* \n
- .. INRIA Lille: /October 15, 2019/
- .. ICTS-TIFR: /August 10, 2019/
- .. AISTATS 2019: /April 17, 2019/
+ .. INRIA Lille: /October 15, 2019/ \[[docs/center_proximity.pdf Slides pdf]\]
+ .. ICTS-TIFR: /August 10, 2019/ \[[docs/icts_ppt.pptx Slides pptx]\]
+ .. AISTATS 2019: /April 17, 2019/ \[[docs/poster.pdf Poster pdf]\]
  .. IIIT Bangalore: /December 1, 2018/
 . *Igniting the AI Fire in You (carefully)*
-  .. IISc Bangalore: /July 25, 2019/
+  .. IISc Bangalore: /July 25, 2019/ \[[docs/ai-fire.pptx Slides pptx]\]
 . *Gradient Descent Converges to Minimizers*
   .. Microsoft Research Bangalore: /September 21, 2017/
