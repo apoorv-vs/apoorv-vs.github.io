@@ -1,7 +1,8 @@
 # jemdoc: menu{MENU}{blogs.html}
 = Blogs
 
-I am making notes of talks/chapters I read for myself. These are highly informal and are not a substitute of the original resource. However, I put them here to consolidate all the things in one place. It's a bonus if someone ends up benefitting from these.
+I am making notes of talks/chapters I read for myself. These are highly informal and are not a substitute of the original resource. However, I am putting them here to consolidate all the things in one place for my convenience. It's a bonus if someone ends up benefitting from these.
 
-- I am reading first three chapters of Bishop Machine Learning book and maintaining notes.\n
- Notes for Bishop Chapter 1 [https://hackmd.io/@apoorv-vs/bishop-chapter-1 here].
+- I read the first three chapters of Bishop Machine Learning book and made notes as part of the Bayesian ML course at NYU.\n
+ Notes for Bishop Chapter 1 [https://hackmd.io/@apoorv-vs/bishop-chapter-1 here], Chapter 2 [https://hackmd.io/@apoorv-vs/bishop-chapter-2 here], and Chapter 3 [https://hackmd.io/@apoorv-vs/bishop-chapter-3 here].
+- I also read (as part of the Bayesian ML course at NYU) the Chapter 8 of Bishop and had to create a 2-page notes of the chapter. This one is on Graphical models. Chapter 8.0-8.2 [docs/bishop-chapter-8-2.pdf here], and Chapter 8.3-8.4  [docs/bishop-chapter-8-4.pdf here]. 
